@@ -1,0 +1,14 @@
+layout_spectrum: 0.015187105862423778
+typography_spectrum: 0.9488207327667624
+color:
+  brandStrength: 0.9901102434378117
+  lightness: 0.7107623277697712
+  saturation: 0.17412019707262516
+  rhythmicContrast: 0.5438480072189122
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: daymachine
